@@ -1,26 +1,21 @@
-# lighttable-dracula-theme
-An implementation of Dracula theme (www.draculatheme.com) for LightTable Editor
-This is my implementation of Dracula theme. 
+# Dracula for [LightTable](http://lighttable.com)
 
-To install just go to Settings -> User behaviors and add the following lines:
-```
-[:app :lt.objs.style/provide-theme "dracula" "/path/to/theme/dracula.css"]
-[:editor :lt.objs.style/set-theme "dracula"]
-```
-You can put the css anywhere and just make the path in the first line use it.
+> A dark theme for [LightTable](http://lighttable.com).
 
-How it looks:
+![Screenshot](https://draculatheme.com/assets/img/screenshots/light-table.png)
 
-![alt tag](images/dracula.jpg)
+## Install
 
-If you use it please let me know!
+All instructions can be found at [draculatheme.com/light-table](https://draculatheme.com/light-table).
 
-```
-Contact me at: 
-E-mail: fliakleiman(at)gmail.com
-Skype: flia.kleiman
-```
+## Team
 
-Cheers!
-Damian
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
 
+[![Damian Kleiman](https://avatars3.githubusercontent.com/u/1450386?v=3&s=70)](https://github.com/DamianK) | [![Zeno Rocha](https://avatars2.githubusercontent.com/u/398893?v=3&s=70)](https://github.com/zenorocha)
+--- | ---
+[Damian Kleiman](https://github.com/DamianK) | [Zeno Rocha](https://github.com/zenorocha)
+
+## License
+
+[MIT License](./LICENSE)
