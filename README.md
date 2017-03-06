@@ -1,6 +1,6 @@
-# Dracula for [LightTable](http://lighttable.com)
+# Dracula for [Light Table](http://lighttable.com)
 
-> A dark theme for [LightTable](http://lighttable.com).
+> A dark theme for [Light Table](http://lighttable.com).
 
 ![Screenshot](https://draculatheme.com/assets/img/screenshots/light-table.png)
 
