@@ -2,7 +2,7 @@
 
 > A dark theme for [Light Table](http://lighttable.com).
 
-![Screenshot](https://draculatheme.com/assets/img/screenshots/light-table.jpg)
+![Screenshot](./screenshot.png)
 
 ## Install
 
